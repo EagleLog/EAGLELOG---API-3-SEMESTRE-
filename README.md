@@ -90,6 +90,13 @@ Desenvolver um dashboard interativo para analisar os dados de acidentes de trân
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
 * <img src="(https://github.com/user-attachments/assets/924049b9-ad5e-432f-9ca1-9e53c9cf5735)" width="40"/> *Pandas*
 
-  
+  # Canais de comunicação
+* <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*
+* <img src="https://user-images.githubusercontent.com/https://github.com/user-attachments/assets/ce6e550a-1f03-4e40-8fc5-d25ca891b31b.png" width="40"/> *WhatsApp*
+
+# Agradecimentos 
 
   
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
+</p>
