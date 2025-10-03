@@ -10,7 +10,7 @@ Project-based learning with integrative projects follows a dynamic and interacti
 * [Resultado esperado](#Resultado-esperado)
 * [Equipe](#equipe)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Base de Dados](#Base-de-Dados)
+* [Base de Dados](#Bases-de-Dados)
 * [Dashboard](#Dashboard)
 * [Documentação](#Documentação)
 * [Apresentação em *slide*](#apresentação-em-slide)
@@ -27,7 +27,7 @@ Project-based learning with integrative projects follows a dynamic and interacti
 # Objetivo 
 Este projeto tem como foco o desenvolvimento de uma API para análise de acidentes de trânsito, com o objetivo de fornecer indicadores, visualizações e comparações úteis para entender os padrões e impactos dos acidentes em diferentes regiões.
 # Resultado esperado
-Desenvolver um dashboard interativo para analisar os dados de acidentes de trânsito e identificar os cinco municípios com maior número de acidentes e fatalidades nos anos de 2023 e 2024, permitindo uma comparação entre os dois anos. O projeto também inclui a criação de indicadores, rankings, mapas de calor e filtros interativos, facilitando a visualização de padrões e tendências ao longo do tempo.
+Desenvolver um dashboard interativo para analisar os dados de acidentes de trânsito e identificar os municípios com maior número de acidentes e fatalidades nos anos de 2022 a 2025, permitindo uma comparação entre os anos. O projeto também inclui a criação de indicadores, rankings, mapas de calor e filtros interativos, facilitando a visualização de padrões e tendências ao longo do tempo.
 
    # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
