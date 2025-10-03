@@ -77,6 +77,9 @@ Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases
 
 📂[*Dashboard* executavel]
 
+![Imagem do WhatsApp de 2025-10-03 à(s) 02 05 49_9ae3f153](https://github.com/user-attachments/assets/1ba0059a-d496-43f9-9e68-1699a34f5ba5)
+
+
 # Documentação 
 
 # Apresentação em *slide*
