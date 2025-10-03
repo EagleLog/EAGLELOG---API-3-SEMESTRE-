@@ -75,7 +75,8 @@ Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases
 
 # *Dashboard*
 
-📂[*Dashboard* executavel]
+📂[*Dashboard* executavel](https://app.powerbi.com/view?r=eyJrIjoiNDc3M2VkYTItZDI4MC00ZjBkLWFjMGUtYTM0YzkzNmU2MjQxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+
 
 ![Imagem do WhatsApp de 2025-10-03 à(s) 02 05 49_9ae3f153](https://github.com/user-attachments/assets/1ba0059a-d496-43f9-9e68-1699a34f5ba5)
 
