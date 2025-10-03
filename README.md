@@ -16,7 +16,6 @@ Project-based learning with integrative projects follows a dynamic and interacti
 * [Apresentação em *slide*](#apresentação-em-slide)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Canais de comunicação](#Canais-de-comunicação)
-* [Linguagem _Python_](#Linguagem-Python)
 * [Agradecimentos](#Agradecimentos) 
 
 
