@@ -96,7 +96,9 @@ Desenvolver um dashboard interativo para analisar os dados de acidentes de trân
 
 # Agradecimentos 
 
+Agradecemos a todos os colegas e professores envolvidos na realização deste projeto, pelo apoio, orientações e colaboração ao longo do desenvolvimento. Este trabalho é resultado de um esforço coletivo e da aplicação prática dos conhecimentos adquiridos durante o semestre.
   
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
 </p>
