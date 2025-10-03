@@ -25,7 +25,7 @@ Project-based learning with integrative projects follows a dynamic and interacti
 # Objetivo 
 Este projeto tem como foco o desenvolvimento de uma API para análise de acidentes de trânsito, com o objetivo de fornecer indicadores, visualizações e comparações úteis para entender os padrões e impactos dos acidentes em diferentes regiões.
 # Resultado esperado
-Desenvolver um dashboard interativo para analisar os dados de acidentes de trânsito e identificar os municípios com maior número de acidentes e fatalidades nos anos de 2022 a 2025, permitindo uma comparação entre os anos. O projeto também inclui a criação de indicadores, rankings, mapas de calor e filtros interativos, facilitando a visualização de padrões e tendências ao longo do tempo.
+Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.
 
    # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
