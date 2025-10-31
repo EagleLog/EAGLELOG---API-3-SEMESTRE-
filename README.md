@@ -1,31 +1,18 @@
 # Aprendizagem Baseada em Projetos Integradores (API)
 A aprendizagem baseada em projetos integradores (API) segue uma abordagem dinâmica e interativa, inspirada nas metodologias ágeis. Os alunos desenvolvem conhecimentos e habilidades ao longo de projetos práticos, divididos em ciclos de planejamento, execução e retrospectiva. A metodologia valoriza a interdisciplinaridade, promovendo a colaboração entre diferentes áreas para resolver desafios do mundo real, com entregas incrementais e adaptação contínua — alinhadas às práticas do mercado.
 
-# Project-Based Learning with Integrative Projects
-Project-based learning with integrative projects follows a dynamic and interactive approach, inspired by agile methodologies. Students build knowledge and skills by working on practical projects, organized into cycles of planning, execution, and reflection. The approach emphasizes interdisciplinarity, encouraging collaboration across different fields to solve real-world challenges, with incremental delivery and continuous adaptation, aligned with real industry practices.
-
 # :dart: Índice
-* [Projeto](#Projeto)
-* [Objetivo](#Objetivo)
-* [Resultado esperado](#Resultado-esperado)
+* [Objetivo do Projeto](#Objetivo)
 * [Equipe](#equipe)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Backlog do Produto](#Cronograma-das-Sprints)
 * [Base de Dados](#Bases-de-Dados)
 * [Dashboard](#Dashboard)
-* [Documentação](#Documentação)
+* [Competências desenvolvidas](#Documentação)
 * [Apresentação em *slide*](#apresentação-em-slide)
-* [Tecnologias utilizadas](#Tecnologias-utilizadas)
-* [Canais de comunicação](#Canais-de-comunicação)
 * [Agradecimentos](#Agradecimentos) 
 
-
-
-# <h1 align="center"> Projeto
-
-# Objetivo 
+# Projeto (API)
 Este projeto tem como foco o desenvolvimento de uma API para análise de acidentes de trânsito, com o objetivo de fornecer indicadores, visualizações e comparações úteis para entender os padrões e impactos dos acidentes em diferentes regiões.
-# Resultado esperado
-Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases de dados públicas — PRF, DATASUS, DENATRAN e IBGE — para analisar os indicadores de sinistralidade no trânsito. O sistema deve apresentar métricas por estado e nacionalmente, como: mortalidade, severidade dos sinistros, índice de motorização, frota, população, uso de motocicletas, entre outros.
 
    # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -36,42 +23,55 @@ Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases
 |  Team Member  | Emilly Ajala                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alana-ro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Alana-Rodrigues-01)        |
 |  Team Member  | Cauan C.                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/cauan-cesar-214b77251) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/C4U4N) |
 
-# Cronograma das Sprints
-📂[*User story*](https://github.com/user-attachments/files/22650639/User.Story.EagleLog.pdf)
+# Objetivo do Projeto
 
-## 📌 Sprint 1 - Exploração e Indicadores Básicos
-- :white_check_mark: Reuniões;
-- :white_check_mark: Atribuição das atividades para a Sprint 1.
-- :white_check_mark: Backlog do produto;
-- :white_check_mark: GitHub estruturado com link disponibilizado;
-- :white_check_mark: Jira Software estruturado;
-- :white_check_mark: Calcular taxa de acidentes/fatalidades por tipo de veículo (acidentes / número de veículos registrados;
-- :white_check_mark: Gerar comparativo de acidentes/fatalidades por município e por região;
-- :white_check_mark: Calcular taxa de acidentes por habitantes (acidentes / população).
+Este projeto tem como objetivo desenvolver uma API para análise de acidentes de trânsito, visando:
 
-- ## 📌 Sprint 2 - Análises Avançadas e Prototipagem
-- :white_check_mark: Criar ranking de municípios com maior número de acidentes/fatalidades.
-- :white_check_mark: Realizar análise de sazonalidade e picos de acidentes/fatalidades (feriados, férias, eventos especiais).
-- :white_check_mark: Construir mapa de calor para identificar regiões com maior concentração de acidentes/fatalidades.
-- :white_check_mark: Implementar filtros interativos (ano, município, tipo de acidente, tipo de veículo).
-- :white_check_mark: Classificar acidentes por tipo e gravidade: fatais, com feridos, sem vítimas.
-- :white_check_mark: Início do design do dashboard (layout e estrutura de navegação).
+- Fornecer indicadores, visualizações e comparações sobre acidentes de trânsito;
+- Compreender os padrões e impactos dos acidentes em diferentes regiões;
+- Integrar bases de dados públicas (PRF, DATASUS, DENATRAN e IBGE);
+- Apresentar métricas por estado e em nível nacional;
+- Disponibilizar informações como mortalidade, severidade dos sinistros, índice de motorização, frota, população e uso de motocicletas.
 
-## 📌 Sprint 3 - Visualização Final e Insights 
-- :white_check_mark: Exibir participação de cada município no total de acidentes e fatalidades do estado, usando gráfico de Pareto.
-- :white_check_mark: Incluir no gráfico de taxa de acidentes/fatalidades por tipo de veículo a metodologia de curva ABC.
-- :white_check_mark: Comparar municípios/regiões ao longo do tempo utilizando mapas de calor para identificar evolução (melhorias ou agravamento).
-- :white_check_mark: Finalizar design completo do dashboard, garantindo usabilidade e interatividade.
+# Tecnologias Utilizadas
+- Jira Software
+- Power BI
+- WhatsApp
+- Python (Colab)
+- Mysql
+- Jira
 
-  # Desenvolvimento
-  # *Bases de Dados*  
-📂[Python/PRF](https://colab.research.google.com/drive/10rXi25YbGXLl_hrYuM0QtNKBB6y5qjq6?usp=sharing)
+# # Product Backlog
+  
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+Rank Prioridade User Story Estimativa Sprint
+1 |Alta | Como tomador de decisões de políticas públicas, pretendo realizar a análise de dados para compreender melhor os dados abertos. |5| 1 
+2 |Alta|  Como tomador de decisões de políticas públicas, pretendo tratar e preparar as bases utilizando Python para garantir que as informações fiquem limpas, padronizadas e consistentes. |8| 1 |
+3 | Média | Como tomador de decisões de políticas públicas, pretendo gerar comparativos de acidentes e fatalidades por município e por região para identificar áreas críticas e direcionar ações. |3 | 1 |
+4 | Média | Como tomador de decisões de políticas públicas, pretendo calcular a taxa de acidentes por habitantes, relacionando acidentes à população, para medir a exposição ao risco.|  3|  1 |
+5 | Média | Como tomador de decisões de políticas públicas, pretendo criar um ranking de municípios com maior número de acidentes e fatalidades para priorizar ações preventivas.| 3| 1 |
+6 |Média | Como tomador de decisões de políticas públicas, pretendo criar um ranking de municípios com maior número de acidentes e fatalidades para apoiar o planejamento de ações preventivas e priorização de recursos.| 3 | 2 |
+7|  Alta | Como tomador de decisões de políticas públicas, pretendo analisar a sazonalidade e identificar picos de acidentes e fatalidades, como em feriados, férias ou eventos, para apoiar campanhas preventivas.|3 | 2 | 
+8 | Alta | Como tomador de decisões de políticas públicas, pretendo construir mapas de calor que identifiquem regiões com maior concentração de acidentes e fatalidades para facilitar a visualização geográfica.| 7 | 2 |
+9 | Alta | Como tomador de decisões de políticas públicas, pretendo utilizar filtros interativos por ano, município, tipo de acidente e tipo de veículo para explorar os dados de maneira personalizada.| 3 | 2 |
+10 | Média | Como tomador de decisões de políticas públicas, pretendo classificar os acidentes por tipo e gravidade fatais, com feridos ou sem vítimas para entender melhor o impacto de cada ocorrência. |3 | 2 |
+11 | Baixo | Como tomador de decisões de políticas públicas, pretendo iniciar o design do dashboard definindo layout e estrutura de navegação para garantir uma experiência de uso clara e eficiente. |3 |2 |
+12 | Baixo | Como tomador de decisões de políticas públicas, pretendo exibir a participação de cada município no total de acidentes e fatalidades do estado, usando gráfico de Pareto, para identificar os maisrelevantes.| 4| 3 | 
+13| Baixo | Como tomador de decisões de políticas públicas, pretendo incluir a metodologia de curva ABC no gráfico de taxa de acidentes e fatalidades por tipo de veículo para evidenciar os tipos mais críticos.| 4 | 3 |
+14 | Médio | Como tomador de decisões de políticas públicas, pretendo comparar municípios e regiões ao longo do tempo por meio de mapas de calor para detectar melhorias ou agravamentos.| 3 | 3 |
+15 | Baixo | Como tomador de decisões de políticas públicas, pretendo finalizar o design do dashboard garantindo usabilidade, interatividade e consistência visual.| 3 | 3 |
 
-📂[Python/Detran](https://colab.research.google.com/drive/1JpYrpkOfICLygIKvswA5UacUfihdUtz9?usp=sharing)
 
-📂[Detran](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+# Registro das Sprints
 
-📂[IBGE](https://www.ibge.gov.br/cidades-e-estados/sp/)
+| Sprint            | Previsão   | Status   | Histórico |
+|-------------------|------------|----------|-----------|
+| 01                | 03/10/2025 | Concluida | [MVP](MVP/sp1.md)  |
+| 02                | 31/10/2025 | Em progresso  | [MVP](MVP/sp2.md)  |
+| 03                | 31/10/2025 | Em progresso  | [MVP](MVP/sp2.md)  |
+| Feira de Soluções               | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
+
 
 # *Dashboard*
 
@@ -82,19 +82,6 @@ Desenvolver uma ferramenta de Business Intelligence que integre diferentes bases
 
 
 # Documentação 
-
-# Apresentação em *slide*
-
-# Tecnologias Utilizadas
-* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
-* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
-* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
-* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
-* <img src="(https://github.com/user-attachments/assets/924049b9-ad5e-432f-9ca1-9e53c9cf5735)" width="40"/> *Pandas*
-
-  # Canais de comunicação
-* <img src="https://github.com/user-attachments/assets/dedec4fc-d1ff-45f9-a88d-875e36b72629" width="40"/>  *Teams*
-* <img src="https://user-images.githubusercontent.com/https://github.com/user-attachments/assets/ce6e550a-1f03-4e40-8fc5-d25ca891b31b.png" width="40"/> *WhatsApp*
 
 # Agradecimentos 
 
