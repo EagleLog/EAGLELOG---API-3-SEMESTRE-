@@ -43,21 +43,21 @@ Este projeto tem como objetivo desenvolver uma API para análise de acidentes de
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 Rank Prioridade User Story Estimativa Sprint
-1 |Alta | Como tomador de decisões de políticas públicas, pretendo realizar a análise de dados para compreender melhor os dados abertos. |5| 1 
-2 |Alta|  Como tomador de decisões de políticas públicas, pretendo tratar e preparar as bases utilizando Python para garantir que as informações fiquem limpas, padronizadas e consistentes. |8| 1 |
-3 | Média | Como tomador de decisões de políticas públicas, pretendo gerar comparativos de acidentes e fatalidades por município e por região para identificar áreas críticas e direcionar ações. |3 | 1 |
-4 | Média | Como tomador de decisões de políticas públicas, pretendo calcular a taxa de acidentes por habitantes, relacionando acidentes à população, para medir a exposição ao risco.|  3|  1 |
-5 | Média | Como tomador de decisões de políticas públicas, pretendo criar um ranking de municípios com maior número de acidentes e fatalidades para priorizar ações preventivas.| 3| 1 |
-6 |Média | Como tomador de decisões de políticas públicas, pretendo criar um ranking de municípios com maior número de acidentes e fatalidades para apoiar o planejamento de ações preventivas e priorização de recursos.| 3 | 2 |
-7|  Alta | Como tomador de decisões de políticas públicas, pretendo analisar a sazonalidade e identificar picos de acidentes e fatalidades, como em feriados, férias ou eventos, para apoiar campanhas preventivas.|3 | 2 | 
-8 | Alta | Como tomador de decisões de políticas públicas, pretendo construir mapas de calor que identifiquem regiões com maior concentração de acidentes e fatalidades para facilitar a visualização geográfica.| 7 | 2 |
-9 | Alta | Como tomador de decisões de políticas públicas, pretendo utilizar filtros interativos por ano, município, tipo de acidente e tipo de veículo para explorar os dados de maneira personalizada.| 3 | 2 |
-10 | Média | Como tomador de decisões de políticas públicas, pretendo classificar os acidentes por tipo e gravidade fatais, com feridos ou sem vítimas para entender melhor o impacto de cada ocorrência. |3 | 2 |
-11 | Baixo | Como tomador de decisões de políticas públicas, pretendo iniciar o design do dashboard definindo layout e estrutura de navegação para garantir uma experiência de uso clara e eficiente. |3 |2 |
-12 | Baixo | Como tomador de decisões de políticas públicas, pretendo exibir a participação de cada município no total de acidentes e fatalidades do estado, usando gráfico de Pareto, para identificar os maisrelevantes.| 4| 3 | 
-13| Baixo | Como tomador de decisões de políticas públicas, pretendo incluir a metodologia de curva ABC no gráfico de taxa de acidentes e fatalidades por tipo de veículo para evidenciar os tipos mais críticos.| 4 | 3 |
-14 | Médio | Como tomador de decisões de políticas públicas, pretendo comparar municípios e regiões ao longo do tempo por meio de mapas de calor para detectar melhorias ou agravamentos.| 3 | 3 |
-15 | Baixo | Como tomador de decisões de políticas públicas, pretendo finalizar o design do dashboard garantindo usabilidade, interatividade e consistência visual.| 3 | 3 |
+1 |Alta | Como tomador de decisões de políticas públicas, desejo que seja feito a análises de dados que me permitam compreender melhor os dados abertos. |5| 1 
+2 |Alta|  Como tomador de decisões de políticas públicas, preciso que tenha bases de dados tratadas e padronizadas em Python, garantindo informações limpas e consistentes para as análises. |8| 1 |
+3 | Média | Como tomador de decisões de políticas públicas, quero visualizar comparativos de acidentes e fatalidades por município e região, a fim de identificar áreas críticas e direcionar ações. |3 | 1 |
+4 | Média | Como tomador de decisões de políticas públicas, necessito de indicadores que apresentem a taxa de acidentes por habitantes, permitindo avaliar o nível de exposição ao risco.|  3|  1 |
+5 | Média | CComo tomador de decisões de políticas públicas, gostaria de ter um ranking dos municípios com maior número de acidentes e fatalidades para priorizar ações preventivas.| 3| 1 |
+6 |Média | Como tomador de decisões de políticas públicas, quero ter um ranking de municípios com mais acidentes e fatalidades para apoiar o planejamento e a alocação de recursos.| 3 | 2 |
+7|  Alta | Como tomador de decisões de políticas públicas, desejo visualizar análises de sazonalidade que indiquem picos de acidentes e fatalidades em períodos específicos, como feriados e férias.|3 | 2 | 
+8 | Alta | Como tomador de decisões de políticas públicas, preciso de mapas de calor que evidenciem regiões com maior concentração de acidentes e fatalidades, facilitando a análise geográfica.| 7 | 2 |
+9 | Alta | Como tomador de decisões de políticas públicas, quero utilizar filtros interativos (ano, município, tipo de acidente e tipo de veículo) para explorar os dados de forma personalizada.| 3 | 2 |
+10 | Média | Como tomador de decisões de políticas públicas, desejo visualizar a classificação dos acidentes por tipo e gravidade — fatais, com feridos ou sem vítimas — para compreender seu impacto. |3 | 2 |
+11 | Baixo | Como tomador de decisões de políticas públicas, gostaria que o dashboard seja projetado com um layout claro e navegação intuitiva, garantindo uma boa experiência de uso. |3 |2 |
+12 | Baixo | Como tomador de decisões de políticas públicas, desejo visualizar a participação de cada município no total de acidentes e fatalidades do estado, por meio de um gráfico de Pareto.| 4| 3 | 
+13| Baixo | Como tomador de decisões de políticas públicas, preciso de uma análise baseada na curva ABC que destaque os tipos de veículos mais críticos em relação a acidentes e fatalidades.| 4 | 3 |
+14 | Médio | Como tomador de decisões de políticas públicas, quero comparar municípios e regiões ao longo do tempo por meio de mapas de calor, identificando tendências de melhora ou agravamento.| 3 | 3 |
+15 | Baixo |Como tomador de decisões de políticas públicas, gostaria que o dashboard final apresente alta usabilidade, interatividade e consistência visual.| 3 | 3 |
 
 
 # Registro das Sprints
