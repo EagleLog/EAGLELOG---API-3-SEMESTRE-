@@ -6,8 +6,7 @@ A aprendizagem baseada em projetos integradores (API) segue uma abordagem dinâm
 * [Equipe](#equipe)
 * [Backlog do Produto](#Cronograma-das-Sprints)
 * [Dashboard](#Dashboard)
-* [Competências desenvolvidas](#Competencias desenvolvidas)
-* [Agradecimentos](#Agradecimentos) 
+* [Competências desenvolvidas](#competências-desenvolvidas)
 
 # Projeto (API)
 Este projeto tem como foco o desenvolvimento de uma API para análise de acidentes de trânsito, com o objetivo de fornecer indicadores, visualizações e comparações úteis para entender os padrões e impactos dos acidentes em diferentes regiões.
@@ -79,7 +78,7 @@ Rank Prioridade User Story Estimativa Sprint
 ![Imagem do WhatsApp de 2025-10-03 à(s) 02 05 49_9ae3f153](https://github.com/user-attachments/assets/1ba0059a-d496-43f9-9e68-1699a34f5ba5)
 
 
-# Competencias desenvolvidas
+# Competências desenvolvidas
 
 # Agradecimentos 
 
