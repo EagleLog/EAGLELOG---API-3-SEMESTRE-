@@ -66,7 +66,7 @@ Rank Prioridade User Story Estimativa Sprint
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Concluida | [MVP](MVP/sp1.md)  |
 | 02                | 31/10/2025 | Em progresso  | [MVP](MVP/sp2.md)  |
-| 03                | 31/10/2025 | Em progresso  | [MVP](MVP/sp2.md)  |
+| 03                | 31/10/2025 | a fazer | [MVP](MVP/sp2.md)  |
 | Feira de Soluções               | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
 
 
@@ -74,8 +74,16 @@ Rank Prioridade User Story Estimativa Sprint
 
 📂[*Dashboard* executavel](https://app.powerbi.com/view?r=eyJrIjoiNDc3M2VkYTItZDI4MC00ZjBkLWFjMGUtYTM0YzkzNmU2MjQxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
-
+# 1º SPRINT
 ![Imagem do WhatsApp de 2025-10-03 à(s) 02 05 49_9ae3f153](https://github.com/user-attachments/assets/1ba0059a-d496-43f9-9e68-1699a34f5ba5)
+
+# 2º SPRINT 
+📂[*Dashboard* executavel](https://app.powerbi.com/view?r=eyJrIjoiNDc3M2VkYTItZDI4MC00ZjBkLWFjMGUtYTM0YzkzNmU2MjQxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+
+<img width="1200" height="666" alt="imagem (5)" src="https://github.com/user-attachments/assets/6ed2f36a-74bf-48c9-89df-959b81fe7143" />
+<img width="1188" height="678" alt="imagem (4)" src="https://github.com/user-attachments/assets/677442ec-81dc-4396-a258-11b2200701f3" />
+<img width="1202" height="664" alt="imagem (3)" src="https://github.com/user-attachments/assets/ea50f2c0-e666-4623-b6fd-d1d9dc8d0cb5" />
+<img width="1205" height="671" alt="imagem (2)" src="https://github.com/user-attachments/assets/ee0afd40-0ec7-4f0b-957d-5933b668d258" />
 
 
 # Competências desenvolvidas
