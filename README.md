@@ -66,8 +66,8 @@ Rank Prioridade User Story Estimativa Sprint
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Concluida | [MVP](MVP/sp1.md)  |
 | 02                | 31/10/2025 | Em progresso  | [MVP](MVP/sp2.md)  |
-| 03                | 31/10/2025 | a fazer | [MVP](MVP/sp2.md)  |
-| Feira de Soluções               | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 14/11/2025 | a fazer | [MVP](MVP/sp2.md)  |
+| Feira de Soluções               | 06/12/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 
 
 # *Dashboard*
