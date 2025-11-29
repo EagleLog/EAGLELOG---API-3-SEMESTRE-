@@ -65,9 +65,9 @@ Rank Prioridade User Story Estimativa Sprint
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Concluida | [MVP](MVP/sp1.md)  |
-| 02                | 31/10/2025 | Em progresso  | [MVP](MVP/sp2.md)  |
-| 03                | 14/11/2025 | a fazer | [MVP](MVP/sp2.md)  |
-| Feira de Soluções               | 06/12/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 02                | 31/10/2025 | Concluido  | [MVP](MVP/sp2.md)  |
+| 03                | 14/11/2025 | Concluido | [MVP](MVP/sp2.md)  |
+| Feira de Soluções               | 06/12/2025 | Em progresso | [MVP](MVP/sp3.md)  |
 
 
 # *Dashboard*
@@ -84,6 +84,10 @@ Rank Prioridade User Story Estimativa Sprint
 <img width="1188" height="678" alt="imagem (4)" src="https://github.com/user-attachments/assets/677442ec-81dc-4396-a258-11b2200701f3" />
 <img width="1202" height="664" alt="imagem (3)" src="https://github.com/user-attachments/assets/ea50f2c0-e666-4623-b6fd-d1d9dc8d0cb5" />
 <img width="1205" height="671" alt="imagem (2)" src="https://github.com/user-attachments/assets/ee0afd40-0ec7-4f0b-957d-5933b668d258" />
+
+# 3º SPRINT 
+📂[*Dashboard* executavel]([https://app.powerbi.com/view?](https://app.powerbi.com/view?r=eyJrIjoiNzcxZDY0NGMtZDljNi00NThkLTk0OTktMjRlOWY5NTUxNzliIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+
 
 
 # Competências desenvolvidas
