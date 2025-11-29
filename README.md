@@ -88,9 +88,24 @@ Rank Prioridade User Story Estimativa Sprint
 # 3º SPRINT 
 📂[*Dashboard* executavel]([https://app.powerbi.com/view?](https://app.powerbi.com/view?r=eyJrIjoiNzcxZDY0NGMtZDljNi00NThkLTk0OTktMjRlOWY5NTUxNzliIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
+<img width="1439" height="802" alt="image" src="https://github.com/user-attachments/assets/8f5c26e7-2552-4a85-9dfa-d8d89723dca0" />
+<img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/5b996433-5fef-476e-8257-80f3fbd84e05" />
+<img width="1428" height="818" alt="image" src="https://github.com/user-attachments/assets/1f986da6-0652-431b-9e85-353f7a5df1e2" />
+<img width="1429" height="799" alt="image" src="https://github.com/user-attachments/assets/603b46a4-1b2e-4484-af6c-014686d6bf85" />
 
 
 # Competências desenvolvidas
+
+Tratamento e análise de dados
+Criação de visualizações e dashboards
+Indicadores e comparativos estatísticos
+Mapas de calor e análises geográficas
+Uso de filtros e interatividade
+Pensamento crítico
+Comunicação de insights
+Organização
+Trabalho em equipe
+Resolução de problemas
 
 # Agradecimentos 
 
